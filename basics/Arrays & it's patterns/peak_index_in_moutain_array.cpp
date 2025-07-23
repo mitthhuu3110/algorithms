@@ -1,3 +1,6 @@
+// question link -> https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+
+
 // Solving it in the binary search method shows that you have a deeper understanding of the concept
 class Solution {
 public:
