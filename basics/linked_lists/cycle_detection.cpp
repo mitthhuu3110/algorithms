@@ -1,5 +1,9 @@
 // linked list cycle detection 
-
+#include <bits/stdc++.h>
+struct Node(){
+	int data = val;
+	Node* next;
+}
 bool hasCycle(Node* head){
 	// method 1 using hashing - maps
 	unordered_map<Node*, int> ump;

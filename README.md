@@ -1,5 +1,7 @@
 # algorithms
 
+#include <bits/stdc++.h>
+
 Covering all the datastructures and algorithms for intervew prep & also for improving problem solving skills. 
 
 1. Arrays, Vectors, Strings

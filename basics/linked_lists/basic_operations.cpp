@@ -1,5 +1,5 @@
 // linkedlist declaration
-
+#include <bits/stdc++.h>
 struct Node {
 	int data;
 	Node* next;
@@ -53,7 +53,7 @@ void traverse(Node* head){
 		cout << temp -> data << "->";
 		temp = temp -> next;
 	}
-	cout << nullptr << endl;
+	cout << "nullptr" << endl;
 }
 
 // deletion 

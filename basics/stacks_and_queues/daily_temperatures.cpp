@@ -1,3 +1,4 @@
+#include <bits/stdc++.h>
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {

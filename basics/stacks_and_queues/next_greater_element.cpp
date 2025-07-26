@@ -1,5 +1,5 @@
 //next greater element implementation using stack 
-
+#include <bits/stdc++.h>
 vector<int> nextGreater(vector<int> &nums){
 	int n = nums.size();
 	vector<int> res(n, -1);
