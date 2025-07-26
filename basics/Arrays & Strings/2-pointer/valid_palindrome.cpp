@@ -1,3 +1,5 @@
+// link to the problem -> https://leetcode.com/problems/valid-palindrome/description/
+
 class Solution {
 public:
     bool isPalindrome(string s) {
