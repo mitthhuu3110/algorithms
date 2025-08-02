@@ -6,14 +6,14 @@ Covering all the datastructures and algorithms for intervew prep & also for impr
 
 1. Arrays, Vectors, Strings
 2. Linked Lists
-3. Stacks/Queues
-4. 
+3. Stacks
+4. Queues
 5. Trees
 6. Graphs
 7. Tries
 8. Hash maps
 9. Hash tables
-10. 
+   
 
 
 Important patterns & Concepts 
