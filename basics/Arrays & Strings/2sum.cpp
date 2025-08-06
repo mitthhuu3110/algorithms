@@ -26,3 +26,6 @@ vector<int> twoSum(vector<int> &nums, int target){
 
   return {};
 }
+
+
+// this question is foundational for the logical thinking ability and the least amount of problem that anyone who is getting started with dsa can solve 
