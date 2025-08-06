@@ -27,4 +27,4 @@ Important patterns & Concepts
 7. Inorder, preorder, postorder traversal
 8. DFS, BFS
 9. Topological Sort
-10. Graph algorithms
+10. Other important Graph algorithms
