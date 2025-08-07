@@ -1,5 +1,5 @@
 // link to th problem -> https://leetcode.com/problems/longest-repeating-character-replacement/description/
-
+#include <bits/stdc++.h>
 class Solution {
 public:
     int characterReplacement(string s, int k) {
