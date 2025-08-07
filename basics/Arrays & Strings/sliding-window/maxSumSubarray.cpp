@@ -1,5 +1,7 @@
 // using sliding window & prefix sum simultaneously but simple solution 
 
+#include <bits/stdc++.h>
+
 class Solution {
   public:
     int maximumSumSubarray(vector<int>& arr, int k) {
