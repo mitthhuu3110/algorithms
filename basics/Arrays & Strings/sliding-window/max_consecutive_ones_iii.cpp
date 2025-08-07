@@ -1,5 +1,6 @@
 // problem link -> https://leetcode.com/problems/max-consecutive-ones-iii/ 
 
+#include <bits/stdc++.h>
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
