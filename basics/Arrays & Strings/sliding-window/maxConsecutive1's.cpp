@@ -1,3 +1,6 @@
+
+#include <bits/stdc++.h>
+
 class Solution {
 public:
     int findMaxConsecutiveOnes(vector<int>& nums) {
