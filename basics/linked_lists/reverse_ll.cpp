@@ -2,6 +2,7 @@
 
 
 // reverse a linked list
+#include <bits/stdc++.h>
 
 Node* reverseLL(Node* head){
 	Node* prev = nullptr;
