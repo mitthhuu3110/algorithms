@@ -8,6 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+#include <bits/stdc++.h>
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
