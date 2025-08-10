@@ -26,7 +26,7 @@ Important patterns & Concepts
 4. 2 pointers (fast & slow pointers, i -> <- j)
 5. Prefix Sum 
 6. Binary search
-7. Inorder, preorder, postorder traversal
-8. DFS, BFS
+7. Inorder, preorder, postorder traversal 
+8. DFS, BFS (important traversing technques used everywhere)
 9. Topological Sort
 10. Other important Graph algorithms
