@@ -21,9 +21,10 @@ Important patterns & Concepts
 1. Recursion 
 > Backtracking, NQueens, Sudoku solver etc, Combination Sum, Subset Sum, Fibonacci
 2. Dynamic Programming
+> Tabulation, Memoization, Space Optimization
 3. Sliding window
 4. 2 pointers (fast & slow pointers, i -> <- j)
-5. Prefix Sum
+5. Prefix Sum 
 6. Binary search
 7. Inorder, preorder, postorder traversal
 8. DFS, BFS
