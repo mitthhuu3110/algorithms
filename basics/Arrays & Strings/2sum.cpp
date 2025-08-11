@@ -9,7 +9,7 @@ Instead of doing that, we can have a simple solution here, instead of searching 
 */
 
 // question link -> https://leetcode.com/problems/two-sum/description/
-
+#include<bits/stdc++.h>
 
 vector<int> twoSum(vector<int> &nums, int target){
   int n = nums.size();
