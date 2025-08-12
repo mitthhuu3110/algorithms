@@ -45,6 +45,8 @@
 
         //more optimization using two pointer along with unordered_maps
 
+#include <bits/stdc++.h>
+
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) 
