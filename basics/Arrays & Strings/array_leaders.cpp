@@ -1,4 +1,4 @@
-
+#include<bits/stdc++.h>
 
 class Solution {
     // Function to find the leaders in the array.
