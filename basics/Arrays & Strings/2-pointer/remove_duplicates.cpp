@@ -1,4 +1,5 @@
 // link to the question -> https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+#include <bits/stdc++.h> 
 
 class Solution {
 public:
