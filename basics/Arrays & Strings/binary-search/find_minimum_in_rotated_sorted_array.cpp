@@ -1,4 +1,5 @@
 // question link -> https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/ 
+#include <bits/stdc++.h> 
 
 class Solution {
 public:
