@@ -1,3 +1,5 @@
+#include <bits/stdc++.h> 
+
 class Solution {
 public:
     vector<int> searchRange(vector<int>& arr, int target) {
