@@ -1,6 +1,8 @@
 // link to the question -> https://leetcode.com/problems/search-insert-position/description/
 
 
+#include <bits/stdc++.h>
+
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
