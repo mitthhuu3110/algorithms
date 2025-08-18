@@ -2,6 +2,8 @@
 
 
 // Solving it in the binary search method shows that you have a deeper understanding of the concept
+#include <bits/stdc++.h>
+
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
