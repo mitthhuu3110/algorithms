@@ -1,5 +1,7 @@
 // link to the problem -> https://leetcode.com/problems/search-a-2d-matrix/description/
 
+#include <bits/stdc++.h>
+
 class Solution {
 public:
     int binarySearch(vector<int> &arr, int target){
