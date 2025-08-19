@@ -1,5 +1,7 @@
 // link to the problem -> https://leetcode.com/problems/continuous-subarray-sum/description/
 
+#include <bits/stdc++.h>
+
 class Solution {
 public:
     bool checkSubarraySum(vector<int>& nums, int k) {
