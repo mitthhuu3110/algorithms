@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+
 class Solution {
   public:
     int longestSubarray(vector<int>& arr, int k) {
