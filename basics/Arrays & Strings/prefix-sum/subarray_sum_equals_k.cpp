@@ -1,5 +1,7 @@
 // Classic method for the prefix sum based question
 
+#include <bits/stdc++.h>
+
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int tar) {
