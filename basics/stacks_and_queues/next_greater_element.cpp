@@ -1,4 +1,5 @@
 //next greater element implementation using stack 
+// similar to next smaller element (monotonic stacks implementation
 #include <bits/stdc++.h>
 vector<int> nextGreater(vector<int> &nums){
 	int n = nums.size();
